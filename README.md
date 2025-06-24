@@ -1,16 +1,48 @@
-## Hi there 👋
+## ⚠️ Accessing lvb05...  
+Welcome to the edge.
 
-<!--
-**lvb05/lvb05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Cyber Defender with a Hacker’s Heart  
+💣 Blue Team blood, Purple Team brain — built for digital warfare  
+🧠 Logs? Parsed. Alerts? Crushed. Threats? Tracked and wrecked.  
+🧬 Breaking systems to rebuild them better. No fluff. Just fire.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👁 What I’m About
+
+- 🕶️ Defensive engineering with an offensive twist  
+- 🧰 Threat hunting, deception tech, and log forensics  
+- 🌪️ Deploying chaos. Logging truth. Detecting everything.  
+- 👊 CTFs, honeypots, misconfig labs, and digital mischief
+
+---
+
+### 🧿 Currently Unleashing:
+
+- 🎯 Kubernetes honeypots w/ real attacker data  
+- 🔐 Secure routing protocol experiments (NS-3 grind)  
+- 📡 Detection-as-code, rule stacks, and alert tuning  
+- 🤯 Reversing weird malware samples for fun
+
+---
+
+### 💬 Let's Keep It Real
+
+📥 No corporate buzzwords.  
+🕳️ Just you, me, and the logs.  
+🤝 Collaborate if you're building something loud, broken, or worth defending.
+
+---
+
+### 🔗 Connect (if you dare):
+
+- 🌐 [Portfolio](https://your-portfolio.com)  
+- 🐍 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)  
+- 🕵️‍♀️ Writeups & labs coming soon
+
+---
+
+> "No click, just pwn."  
+> _— logs don’t lie, people do._
+
+
