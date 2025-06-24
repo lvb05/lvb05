@@ -17,6 +17,14 @@ Welcome to the edge.
 
 ---
 
+<!--🌯GITHUBTERMINALSTATS💻 / -->
+
+<p align='center'>  
+  <img align="center" src="https://github.com/lvb05/GitHub-Terminal/blob/master/themes/googledark.svg"
+</p></a>
+
+---
+
 ### 🧿 Currently Unleashing:
 
 - 🎯 Kubernetes honeypots w/ real attacker data  
