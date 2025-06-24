@@ -39,21 +39,16 @@ Welcome to the edge.
     <td align="center" width="60">
       <a href=https://www.linkedin.com/in/lavanya-bhargava-aa9035283/"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a>
     </td>
-    <td align="center" width="60">
-      <a href="https://twitter.com/HetPate94938685"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" width="60"></a>
     </td>
     <td align="center" width="60">
-      <a href="https://www.youtube.com/@alpharoman9602"><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/youtube-icon.png" height="33" width="100"></a>
+      <a href="mailto:lavanyabhargava05@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
     </td>
     <td align="center" width="60">
-      <a href="https://discord.com/channels/1106636869795590254/1106636869795590257"><img src="https://user-images.githubusercontent.com/29790345/184599637-8ba21112-adc2-400a-8931-b071b74fb2a7.png?raw=true" height="33" width="80"></a>
+      <a href="https://x.com/_lvb_05_"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" width="60"></a>
     </td>
-    <td align="center" width="60">
-      <a href="mailto:het8185@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://drive.google.com/file/d/1ENgW8wWwbRlkos5c5l7vBbZ7AeAl443e/view?usp=drive_link"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
-    </td>
+
+    
+    
 
   </tr>
 </table>
