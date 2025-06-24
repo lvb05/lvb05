@@ -1,4 +1,4 @@
-## ⚠️ Accessing lvb05...  
+## ⚠️ Accessing ...  
 Welcome to the edge.
 
 🛡️ Cyber Defender with a Hacker’s Heart  
@@ -32,13 +32,7 @@ Welcome to the edge.
 🕳️ Just you, me, and the logs.  
 🤝 Collaborate if you're building something loud, broken, or worth defending.
 
----
 
-### 🔗 Connect (if you dare):
-
-- 🌐 [Portfolio](https://your-portfolio.com)  
-- 🐍 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)  
-- 🕵️‍♀️ Writeups & labs coming soon
 
 ---
 
