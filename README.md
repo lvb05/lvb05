@@ -35,6 +35,13 @@ I'm a **Cyber Defender with a Hacker’s Heart** — fluent in blue team blood a
 </p></h2>
 
 ---
+### 📝 Medium Writeups
+
+[![Read my blogs on Medium](https://img.shields.io/badge/Medium-Blog-%23000000?logo=medium&logoColor=white)](https://medium.com/@lavanyabhargava05)
+
+> 🚀 Dive into hands-on cybersecurity writeups, CTF walkthroughs, and beginner-friendly hacking tutorials!
+
+---
 ### 👁 What I’m About
 
 - 🕶️ Defensive engineering with an offensive twist  
