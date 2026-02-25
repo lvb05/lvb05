@@ -42,12 +42,13 @@ I'm a **Cyber Defender with a Hacker’s Heart** — fluent in blue team blood a
 > 🚀 Dive into hands-on cybersecurity writeups, CTF walkthroughs, and beginner-friendly hacking tutorials!
 
 ---
-### 👁 What I’m About
+### What I’m About
 
-- 🕶️ Defensive engineering with an offensive twist  
-- 🧰 Threat hunting, deception tech, and log forensics  
-- 🌪️ Deploying chaos. Logging truth. Detecting everything.  
-- 👊 CTFs, honeypots, misconfig labs, and digital mischief
+-  Defensive engineering with an offensive twist  
+-  Threat hunting, deception tech, and log forensics
+-  OpenSource, Backend
+-  Deploying chaos. Logging truth. Detecting everything.  
+-  CTFs, honeypots, misconfig labs, and digital mischief
 
 ---
 
