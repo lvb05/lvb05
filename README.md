@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 Welcome to the edge.
 
-I'm a **Cyber Defender with a Hacker’s Heart** — fluent in blue team blood and purple team strategy. I break things, not for chaos, but to **rebuild them better, stronger, and more secure**. These days I'm into OpenSource and Backend.
+I'm a **Cyber Defender with a Hacker’s Heart** — fluent in blue team blood and purple team strategy. I break things, not for chaos, but to **rebuild them better, stronger, and more secure**. These days, I'm into OpenSource and Backend.
 
 
 🧠 Logs? Parsed.  
